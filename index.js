@@ -1,3 +1,5 @@
+var list = document.getElementById("main");
+
 document.guerySelector('main').remove();
 
 
